@@ -31,3 +31,16 @@ Problem - 2 A* Algorithm for Path Planning
 # Let us assume that the robot takes certain actions with certainity.
 
 ###########################################################################################################################################
+
+
+Problem - 3 Kalman Filter in 1D 
+#########################################################################################################################################
+
+# This example illustrates the kalman filter algorithm in 1-D world. 
+
+# OBJECTIVE - Write a program that will iteratively update and predict based on the location measurements and inferred motions. 
+
+# GIVEN - 
+# measurements, motion, measurement_sig, motion_sig, mu, sig.
+
+#########################################################################################################################################
