@@ -44,3 +44,14 @@ Problem - 3 Kalman Filter in 1D
 # measurements, motion, measurement_sig, motion_sig, mu, sig.
 
 #########################################################################################################################################
+
+
+Problem - 4 Particle Filter in a 4 point landmark
+###########################################################################################################################################
+# This example illustrates the particle filter algorithm in a 4 point landmark 
+
+# OBJECTIVE - Write a program that will iteratively assign weights to 1000 particles and illustrate the working of particle filter
+# GIVEN 
+# Four landmarks in the 100x100 world
+
+###########################################################################################################################################
